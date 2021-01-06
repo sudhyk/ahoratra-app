@@ -5,8 +5,7 @@
 
 * **URL**
 
-Base URL: https://secure.ahoratra.app <br />
-Path: /horodata/v2
+ https://secure.ahoratra.app/horodata/v2
 
 * **Method:**
 
